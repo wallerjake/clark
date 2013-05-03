@@ -6,10 +6,10 @@ require 'clark/version'
 Gem::Specification.new do |spec|
   spec.name          = "clark"
   spec.version       = Clark::VERSION
-  spec.authors       = ["lortega"]
+  spec.authors       = ["Luis Ortega", "Benito Gutierrez", "Santiago Mujica"]
   spec.email         = ["luis.ortega.araneda@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Customized website to avoid start working every new site from scratch}
+  spec.summary       = %q{Generates a Rails app with ActiveAdmin on top of it, for now}
   spec.homepage      = ""
   spec.license       = "MIT"
 
