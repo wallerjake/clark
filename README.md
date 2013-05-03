@@ -1,17 +1,30 @@
 Clark
 =====
 
-The alter ego for your website.
+TODO: Write a gem description
 
-Goals
------
+## Installation
 
-1. Easy to understand and use
-2. Emphasis on Web Standards
+Add this line to your application's Gemfile:
 
-Documentation & Support
------------------------
+    gem 'clark'
 
-* Wiki: https://github.com/lortega/clark/wiki
+And then execute:
 
+    $ bundle
 
+Or install it yourself as:
+
+    $ gem install clark
+
+## Usage
+
+TODO: Write usage instructions here
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
