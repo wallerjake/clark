@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'clark/base'
+
+puts Clark::Base.will_it_blend?
